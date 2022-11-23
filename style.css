@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.container {
+    margin: 45vh auto;
+    text-align: center;
+}
+
+#colorBtn {
+    font-size: 2em;
+}
